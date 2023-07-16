@@ -27,7 +27,7 @@ nav p {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+
   z-index: 1;
 }
 .grand_div img {
@@ -114,4 +114,39 @@ nav p {
   margin-left: 20%;
   padding-bottom: 0.5px;
   margin-bottom: 1.2px;
+}
+#head1 {
+  position: absolute;
+  bottom: 49.5%;
+  left: 24%;
+}
+
+#head2 {
+  position: absolute;
+  bottom: 49.5%;
+  left: 57%;
+}
+
+#head3 {
+  position: absolute;
+  bottom: 49.5%;
+  left: 90%;
+}
+
+#head4 {
+  position: absolute;
+  bottom: 3%;
+  left: 24%;
+}
+
+#head5 {
+  position: absolute;
+  bottom: 3%;
+  left: 57%;
+}
+
+#head6 {
+  position: absolute;
+  bottom: 3%;
+  left: 90%;
 }
