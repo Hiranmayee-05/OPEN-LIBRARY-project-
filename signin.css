@@ -1,0 +1,63 @@
+/* body {
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
+body{
+    background-image: url("./image/library-book-bookshelf-read.jpg");
+}
+#signin_div {
+    display: grid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(30, 28, 28, 0.9);
+    padding: 40px;
+    max-width: 300px;
+    color: rgb(194, 207, 207);
+    /* text-align: center; */
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+input[type=email],input[type=password] {   
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 2px solid green; 
+    border-radius: 12px;  
+    box-sizing: border-box;   
+}
+button {
+    background-color: #030804;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+    margin: px 0;
+    width: 50%;
+    font-size: 18px;
+    margin: auto;
+    
+  }
+
+button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+
+h1{
+    text-align: center;
+    
+    color: rgb(228, 218, 40);
+    text-shadow: 0 0 5px #ffffff;
+}
+
+#signup-option{
+    padding-top: 20px;
+    text-align: center;
+}
