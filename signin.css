@@ -1,15 +1,7 @@
-/* body {
-    background-size: cover;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  } */
-body{
-    background-image: url("./image/library-book-bookshelf-read.jpg");
-}
-#signin_div {
+body {
+    background-image: url("./images/library-book-bookshelf-read.jpg");
+  }
+  #signin_div {
     display: grid;
     position: absolute;
     top: 50%;
@@ -23,17 +15,18 @@ body{
     font-weight: bold;
     border-radius: 8px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
-}
-input[type=email],input[type=password] {   
-    width: 100%;   
-    margin: 8px 0;  
-    padding: 12px 20px;   
-    display: inline-block;   
-    border: 2px solid green; 
-    border-radius: 12px;  
-    box-sizing: border-box;   
-}
-button {
+  }
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    margin: 8px 0;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 12px;
+    box-sizing: border-box;
+  }
+  button {
     background-color: #030804;
     color: white;
     padding: 4px;
@@ -42,22 +35,21 @@ button {
     width: 50%;
     font-size: 18px;
     margin: auto;
-    
   }
-
-button:hover {
+  
+  button:hover {
     opacity: 0.6;
     cursor: pointer;
   }
-
-h1{
+  
+  h1 {
     text-align: center;
-    
+  
     color: rgb(228, 218, 40);
     text-shadow: 0 0 5px #ffffff;
-}
-
-#signup-option{
+  }
+  
+  #signup-option {
     padding-top: 20px;
     text-align: center;
-}
+  }
