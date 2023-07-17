@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "hiranmayeetripathy7@gmail.com",
+      "name": "Hiranmayee Tripathy",
+      "password": "Hiran@123",
+      "id": 1
+    },
+    {
+      "email": "hiranmayeetripathy7@gmail.com",
+      "name": "Hiranmayee Tripathy",
+      "password": "Hiran@123",
+      "id": 2
+    },
+    {
+      "email": "rajshekhar9861@gmail.com",
+      "name": "hiran",
+      "password": "Hiran@123",
+      "id": 3
+    },
+    {
+      "email": "hiranmayeetripathy7@gmail.com",
+      "name": "Hiranmayee Tripathy",
+      "password": "Hiran@123",
+      "id": 4
+    },
+    {
+      "email": "hiranmayeetripathy7@gmail.com",
+      "name": "hm",
+      "password": "Hiran@@@123",
+      "id": 5
+    },
+    {
+      "email": "hiran2@gmail.com",
+      "name": "hiran",
+      "password": "Hiran@123",
+      "id": 6
+    },
+    {
+      "email": "hiranmayeetripathy7@gmail.com",
+      "name": "Hiranmayee Tripathy",
+      "password": "Hiran@@@123",
+      "id": 7
+    }
+  ]
+}
