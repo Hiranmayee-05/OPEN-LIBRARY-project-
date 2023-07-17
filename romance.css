@@ -1,0 +1,138 @@
+.btn {
+    padding: 0.45rem 1.5rem 0.35rem;
+  }
+  .gradient-custom {
+    background: #c471f5;
+    background: -webkit-linear-gradient(
+      to right,
+      rgba(196, 113, 245, 1),
+      rgba(250, 113, 205, 1)
+    );
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(
+      to right,
+      rgba(196, 113, 245, 1),
+      rgba(250, 113, 205, 1)
+    );
+  }
+  #child_div img {
+    width: 100%;
+    height: 100%;
+    /* height: 100%; */
+    object-fit: cover;
+    /* height: 30%;
+      width: 25%; */
+    background: #ee2852;
+    size: 30%;
+  }
+  #parent_div {
+    background-color: #ee2852;
+  }
+  /* #image_id{
+       max-width: 100%;;
+      max-height: 100%;
+      object-fit: cover; 
+       transition: ease-in; 
+  } */
+  #price,
+  #title {
+    background: #ee2852;
+    color: white;
+  }
+  #child_div {
+    text-align: start;
+    /* background:white;  */
+    border-radius: 20px;
+    opacity: 100%;
+    box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.05),
+      inset -5px -5px 5px rgba(255, 255, 255, 0.5),
+      5px 5px 5px rgba(0, 0, 0, 0.05), -5px -5px 5px rgba(255, 255, 255, 0.5);
+    background: #ee2852;
+    /* line-height: 10px;
+      gap: 0px; */
+  }
+  #rating_id {
+    background-color: green !important;
+    color: white;
+    width: 45px;
+    background: #ee2852;
+    text-align: center;
+  }
+  h5 {
+    text-align: center;
+    text-emphasis: inherit;
+  }
+  #author_id,
+  #delivery_id {
+    color: black;
+    background: #ee2852;
+  }
+  #child_div2 {
+    height: 650px;
+    width: 550px;
+    object-fit: cover;
+    border-radius: 20px;
+    background: #ee2852;
+    overflow: hidden;
+  }
+  #title:hover {
+    color: #ffd700;
+  }
+  #child_div:hover {
+    border: 4px solid black;
+    border-radius: 30px;
+    opacity: 100px;
+    transition: ease-in-out;
+  }
+  /* #show_image,donot_show_image{
+      color: white;
+  } */
+  /* #child_div{
+      margin: 20px;
+      height: 100%;
+      width: 100%;
+  } */
+  #empty_div {
+    border: 1px solid pink;
+    border-radius: 15px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-left: 30px;
+    /* background: white; */
+    background-image: url("./images/young-happy-woman-shopper-showing-okay-sign-pleased-with-good-discounts-buying-staff-sale-holding.jpg");
+  }
+  #empty_div div {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: auto;
+    /* display: flex;
+      justify-content:flex-sta; */
+    background-color: white;
+    background: #ee2852;
+  }
+  #rating_img {
+    height: 10px;
+    width: 20px;
+  }
+  * {
+    /* color: white; */
+    margin: 0%;
+    /* background-color: black; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif, Arial,
+      sans-serif;
+    /* background-color: gray; */
+    color: black;
+    text-align: center;
+  }
+  /* #image_id :hover {
+      border: 10px solid black;
+      background-color: white;
+      opacity: 100%;
+  } */
+  /* #parent_div>div>img :hover{
+      border: 3px solid black;
+      opacity: 100%;
+  } */
