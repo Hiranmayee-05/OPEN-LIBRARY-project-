@@ -1,0 +1,77 @@
+nav {
+  height: 30px;
+  border: 2px solid rgb(238, 238, 238);
+  background-color: rgb(238, 238, 238);
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  justify-content: space-around;
+  border: 6px double peachpuff;
+}
+nav a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-weight: bolder;
+}
+nav a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-weight: bolder;
+}
+body {
+  background-image: url("./images/fback1.webp");
+}
+#emp_div {
+  border-radius: 12px;
+  padding: 2% 0%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+
+  gap: 200px;
+  margin: auto;
+  margin-top: 2%;
+  padding: 1% 1%;
+  overflow: hidden;
+  width: min-content;
+  height: min-content;
+}
+#emp_div div {
+  /* justify-content: space-around; */
+  margin-top: 4%;
+  margin: auto;
+  /* width: 50%; */
+  margin-top: 13px;
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  border: 1px solid rgb(137, 46, 190);
+  /* justify-content: space-between; */
+  background-color: rgb(226, 228, 230);
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 20px;
+  /* align-content: space-between; */
+  opacity: 85%;
+  height: 500px;
+  width: 300px;
+  box-shadow: -24px 0px 88px 29px rgba(154, 175, 201, 1);
+}
+#emp_div img {
+  width: 200px;
+  height: 250px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+#emp_div h2 {
+  margin-left: 7%;
+}
+
+#emp_div h3 {
+  margin-left: 7%;
+}
+
+#emp_div h4 {
+  margin-left: 7%;
+}
