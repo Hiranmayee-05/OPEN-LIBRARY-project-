@@ -1,0 +1,119 @@
+body {
+    background-image: url(./images/poetry.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width:100px;
+      height: 100px; */
+  }
+  nav {
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(243, 221, 255);
+    border-radius: 15px;
+    padding: 1%;
+    margin: auto;
+    margin-top: 1%;
+    opacity: 0.56;
+  }
+  
+  li:hover {
+    color: rgb(167, 196, 25);
+  }
+  
+  li {
+    list-style: none;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  #poetry {
+    font-weight: bolder;
+    font-size: 30px;
+    /* text-shadow: 2px 2px 5px rgb(34, 174, 209); */
+    color: rgb(255, 93, 6);
+    text-shadow: 12px 12px 10px #070707;
+  }
+  
+  #parent_div {
+    margin: auto;
+    /* border: 3px solid white; */
+  }
+  /* #parent_div:hover{
+      -webkit-box-reflect: right;
+      opacity: 0.8;
+  } */
+  /* #parent1_div{
+      margin: auto;
+      width:fit-content;
+      margin-top: 8px;
+  } */
+  /* #parent1_div:hover{
+      -webkit-box-reflect: right;
+      opacity: 0.4;
+  } */
+  #child_div {
+    padding: 0% 0%;
+    max-width: max-content;
+    min-height: min-content;
+  }
+  #child-div:hover {
+    cursor: pointer;
+  }
+  #t {
+    font-size: 19px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    padding-left: 15px;
+    font-style: oblique;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    /* margin: auto; */
+  }
+  #a {
+    font-size: 12px;
+    color: rgb(5, 5, 5);
+    padding-left: 3%;
+  }
+  #r {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    padding: 3%;
+  }
+  #p {
+    font-size: small;
+    color: rgb(1, 1, 1);
+    padding-left: 3%;
+  }
+  
+  #empty_div {
+    /* border: 2px solid rgb(242, 237, 237); */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    /* row-gap:2%; */
+    margin: auto;
+    margin-top: 2%;
+    padding: 1% 1%;
+    overflow: hidden;
+  }
+  #empty_div {
+    border-radius: 12px;
+    padding: 2% 0%;
+  }
+  #empty_div div {
+    border: 2px solid rgb(15, 15, 15);
+    margin-top: 1%;
+    background-color: rgb(239, 227, 227);
+    box-shadow: 0px 0px 15px rgb(242, 242, 234);
+    border: 1px solid white;
+    border-radius: 12px;
+    /* color: #131313; */
+  }
+  /* #empty_div div:hover{
+      cursor: pointer;
+      transition: all ease-in-out 100ms;
+      z-index: 1;
+      transform: scale(1.4,1.3);
+  } */
