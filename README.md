@@ -54,8 +54,8 @@ Each genre contains a diverse collection of books to cater to different interest
 
 ## Contributors:
 <ins> </ins>
-* Arya Prangya
 * Hiranmayee Tripathy
+* Arya Prangya
 * Pranoy Agrawalla
 * Sai Sweta Routray
 * Satya Priya Mishra
