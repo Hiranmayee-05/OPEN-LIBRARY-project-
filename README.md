@@ -52,6 +52,14 @@ The online book store website offers a wide range of genres for book enthusiasts
 
 Each genre contains a diverse collection of books to cater to different interests and preferences.
 
+## Contributors:
+<ins> </ins>
+* Arya Prangya
+* Hiranmayee Tripathy
+* Pranoy Agrawalla
+* Sai Sweta Routray
+* Satya Priya Mishra
+* Sthitaprangyan Rout
 ## Contributing
 
 We welcome contributions to improve the online book store website. If you would like to contribute, you can contribute..
