@@ -6,11 +6,8 @@ This is a Books Library website project where the user can browse through a vari
 FIRST THE USER LANDS ON A WELCOME PAGE WHERE HE CAN KNOW A BIT ABOUT US AND SEE THE BOOKS AVAILABLE.
 ![Screenshot (787)](https://github.com/Hiranmayee-05/OPEN-LIBRARY-project-/assets/138790828/3eec6590-d687-4fb9-9799-34286b38d12e)
 
-![Screenshot (788)](https://github.com/Hiranmayee-05/OPEN-LIBRARY-project-/assets/138790828/666f3c32-3d03-456f-9039-8e8f2d608926)
-
-
-
 THEN THE USER HAS TO SIGN UP TO EXPLORE MORE OR SIGN IN IF HE ALREADY HAS AN ACCOUNT.
+![Screenshot (788)](https://github.com/Hiranmayee-05/OPEN-LIBRARY-project-/assets/138790828/666f3c32-3d03-456f-9039-8e8f2d608926)
 
 
 
