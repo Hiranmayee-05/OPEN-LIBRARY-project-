@@ -66,4 +66,4 @@ We welcome contributions to improve the online book store website. If you would 
 
 ## Contact
 
-If you have any questions, feedback, or issues, please contact us at [hiranmayee@example.com](mailto:hiranmayee@example.com).
+If you have any questions, feedback, or issues, please contact us at [hiranmayeetripathy7@gmail.com](mailto:hiranmayee@example.com).
